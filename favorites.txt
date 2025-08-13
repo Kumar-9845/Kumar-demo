@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello , how are you doing
 
 Well come to Alif-Semiconductor
 
 Good luck for your new learning
+=======
+
+>>>>>>> movies
